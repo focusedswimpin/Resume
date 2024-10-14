@@ -1,37 +1,27 @@
-# Jobs
+experience:
+  - title: "Classroom Lead"
+    company: "Arizona State, Tempe"
+    position: "Field Lead"
+    duration: "Jan 2024 — May 2024"
+    summary: |
+      - Clarified complex geological concepts, fostering student engagement through collaborative learning.
+      - Co-led hands-on field trips, enhancing understanding of geological formations.
+      - Mentored new students, providing academic guidance and promoting access to academic resources.
 
-## VP of Global Communications
-- **Company**: Arizona State, Tempe  
-  **Position**: Field Lead  
-  **Duration**: Jan 2024 &mdash; May 2024  
-  **Summary**:  
-  <ul class="resume-item-list">
-    <li>Clarified complex geological concepts, fostering student engagement through collaborative learning.</li>
-    <li>Co-led hands-on field trips, enhancing understanding of geological formations.</li>
-    <li>Mentored new students, providing academic guidance and promoting access to academic resources.</li>
-  </ul>
+  - title: "Digital Strategy Director"
+    company: "SunHacks, Tempe"
+    position: "Volunteer Coordinator"
+    duration: "September 2024"
+    summary: |
+      - Coordinated event logistics and volunteer schedules for a 200+ participant hackathon.
+      - Collaborated with different business units, streamlining event execution and addressing logistical challenges.
+      - Led a team of volunteers to ensure efficient hackathon operations.
 
-## Director of Digital Strategy
-- **Company**: SunHacks, Tempe  
-  **Position**: Volunteer Coordinator  
-  **Duration**: September 2024 &mdash; September 2024  
-  **Summary**:  
-  <ul class="resume-item-list">
-    <li>Coordinated event logistics and volunteer schedules for a 200+ participant hackathon.</li>
-    <li>Collaborated with different business units, streamlining event execution and addressing logistical challenges.</li>
-    <li>Led a team of volunteers to ensure efficient hackathon operations.</li>
-  </ul>
-
-## Communications Coordinator
-- **Company**: DPS, India  
-  **Position**: Programming Activity Board  
-  **Duration**: November 2019 &mdash; March 2020  
-  **Summary**:  
-  <ul class="resume-item-list">
-    <li>Engaged 28 out of 40 targeted schools in Python coding
-competitions through strategic outreach.</li>
-    <li>Managed the end-to-end application process, contributing to
-increased participation and engagement.</li>
-    <li>Organized and facilitated programming challenges, enhancing
-student involvement.</li>
-  </ul>
+  - title: "Communications Coordinator"
+    company: "DPS, India"
+    position: "Programming Activity Board"
+    duration: "November 2019 — March 2020"
+    summary: |
+      - Engaged 28 out of 40 targeted schools in Python coding competitions through strategic outreach.
+      - Managed the end-to-end application process, contributing to increased participation and engagement.
+      - Organized and facilitated programming challenges, enhancing student involvement.
