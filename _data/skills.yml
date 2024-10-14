@@ -1,11 +1,29 @@
 # Skills
+
+# Programming Languages
+- skill: Programming Languages
+  description: Java, Python, C, C++, Javascript, HTML, CSS, MATLAB
+
+# Technologies
+- skill: Technologies
+  description: TailwindCSS, Pandas, NumPy, Matplotlib, Scikit-learn, Scipy, Tensorflow, MongoDB, Flask, PySimpleGui, Oice, Adobe Suite, Slack, Airtable, LaTeX, Salesforce
+
+# Concepts
+- skill: Concepts
+  description: Object-Oriented Programming, Functional Programming, Machine Learning, Data Science, Cybersecurity, Data Analytics, Emerging Technologies, Computer Programming, REST API, HTTP Protocols, MVVM, MVC, Project Management
+
+# Soft Skills
+- skill: Soft Skills
+  description: Leadership, Communication, Social Media Strategy, Problem-Solving, Time Management, Supervision
+
 # Organizational leadership
-- Languages: Java, Python, C, C++, Javascript, HTML, CSS,MATLAB
+- skill: Organizational leadership
+  description: I have several years of experience leading organizations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
 
 # Communications strategy
-- Technologies: TailwindCSS,Pandas, NumPy, Matplotlib,Scikit-learn, Scipy,Tensorflow, MongoDB, Flask,PySimpleGui, Oice, AdobeSuite, Slack, Airtable, Latex,Salesforce
+- skill: Communications strategy
+  description: Content and marketing strategy.
 
 # Digital content development and creation
-- Concepts: Object-OrientedProgramming, FunctionalProgramming, Machine Learning, Data Science,Cybersecurity, DataAnalytics, EmergingTechnologies, ComputerProgramming, REST API,HTTP Protocols, MVVM,MVC, Project Management
-
-- Soft Skills: Leadership,Communication, SocialMedia Strategy, Problem-Solving, Time Management,Supervision
+- skill: Digital content development and creation
+  description: Copy writing, graphic design, web design, front-end web development, print design.

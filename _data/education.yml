@@ -8,4 +8,5 @@
 - degree: High School Diploma
   uni: Ahmedabad Public School
   year: 2023
-  summary: CS Mentor for Python
+  awards:
+    - award: CS Mentor For Python and SQL
